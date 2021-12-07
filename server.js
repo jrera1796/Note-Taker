@@ -2,6 +2,7 @@ const express = require('express');
 
 const path = require('path');
 const app = express();
+const { notes } = require('./db/db.json');
 const fs = require('fs');
 const crypto = require('crypto');
 const id = crypto.randomBytes(10).toString('hex');
