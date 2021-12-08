@@ -1,1 +1,27 @@
-[{"title":"New Title","text":"New Text","id":"1816672e93ff4080a081"},{"title":"New Title","text":"New Text","id":"e255e842be275b57f267"},{"title":"New note","text":"new note","id":"68b59c062b77f1360cab"}]
+[
+  {
+    "title": "Call bank on Friday",
+    "text": "Sample text",
+    "id": "4a62d881e8b638ee457d"
+  },
+  {
+    "title": "Reschedule Delivery ",
+    "text": "Sample text 2",
+    "id": "373a18af6f59350b8307"
+  },
+  {
+    "title": "Finish payroll",
+    "text": "sample text 3",
+    "id": "741979774f93a45a60a9"
+  },
+  {
+    "title": "Check in with clients",
+    "text": "sample text 4",
+    "id": "f2016672406f1401a866"
+  },
+  {
+    "title": "Client lunch on Thursday",
+    "text": "sample text 5",
+    "id": "aa92fe9801eca73f9b9d"
+  }
+]
