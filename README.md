@@ -19,8 +19,8 @@ https://damp-cliffs-18932.herokuapp.com
 
 ## Usage
 
-If you'd like to clone this repository you will also need to install the following dependency
--npm i express
+If you'd like to clone this repository you will also need to install the following dependency  
+- npm i express
 
 ## Contribution
 Made by Jose R.
